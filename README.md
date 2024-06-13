@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Lucas!</h1>
+<h1 align="left">😺Hello, I'm Lucas!😺</h1>
 
 I’m currently learning **C, Html5 and Python**
 
