@@ -15,4 +15,9 @@
 ![Static Badge](https://img.shields.io/badge/Espa%C3%B1ol-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Portugu%C3%A9s-darkgreen?style=for-the-badge)
 
+<h2> Not yet... </h2>
+
+![GitHub followers](https://img.shields.io/github/followers/lucas-nabi)
+![GitHub User's stars](https://img.shields.io/github/stars/lucas-nabi)
+
 <br/>
